@@ -1,0 +1,2 @@
+# Sampleproject
+just setting git
